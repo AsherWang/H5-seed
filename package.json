@@ -1,0 +1,23 @@
+{
+  "name": "h5",
+  "version": "1.0.0",
+  "description": "lvji node H5",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "keywords": [
+    "lvji",
+    "h5"
+  ],
+  "author": "wangaoxin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-source": "^3.2.0",
+    "gulp-postcss": "^7.0.1",
+    "postcss-px2rem": "^0.3.0"
+  }
+}
